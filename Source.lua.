@@ -1,0 +1,23 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KrazyShum12/Zo-Samurai-Internal-V1-or-Samurai-GodMode-V1/refs/heads/main/main.lua"))()
+
+--[[
+    ⚔️ ZO SAMURAI: INTERNAL SOURCE
+    ==========================================
+    DEVELOPER: KrazyShum12
+    STATUS: ACTIVE / UNDETECTED
+    ==========================================
+
+    [FEATURE DOCUMENTATION]
+
+    1. CFrame Jitter Orbit:
+       - Circles targets at 25 Speed.
+       - Jitter bypasses static hit-registration.
+
+    2. Logic-Based Auto-Parry:
+       - Automatically blocks when an enemy attacks within 12 studs.
+
+    3. Universal Kill Aura:
+       - Automatically detects and uses Katana remotes.
+    
+    ------------------------------------------
+--]]
